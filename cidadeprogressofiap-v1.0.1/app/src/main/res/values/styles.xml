@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="groupStylegray_900">
+        <item name="android:background">@drawable/rectangle_bg_gray_900</item>
+    </style>
+    <style name="btnSolidRounded">
+        <item name="android:textSize">@dimen/_20pxh</item>
+        <item name="android:textColor">@color/blue_gray_100</item>
+        <item name="android:fontFamily">@font/actor</item>
+        <item name="android:textFontWeight" tools:targetApi="p">400</item>
+        <item name="android:background">@drawable/rectangle_bg_red_600_radius_6</item>
+    </style>
+    <style name="txtInterregular12">
+        <item name="android:textSize">@dimen/_12pxh</item>
+        <item name="android:textColor">@color/blue_gray_100</item>
+        <item name="android:fontFamily">@font/inter</item>
+        <item name="android:textFontWeight" tools:targetApi="p">400</item>
+    </style>
+    <style name="txtActorregular50">
+        <item name="android:textSize">@dimen/_50pxh</item>
+        <item name="android:textColor">@color/white_A700</item>
+        <item name="android:fontFamily">@font/actor</item>
+        <item name="android:textFontWeight" tools:targetApi="p">400</item>
+    </style>
+    <style name="txtInterbold21">
+        <item name="android:textSize">@dimen/_21pxh</item>
+        <item name="android:textColor">@color/red_600</item>
+        <item name="android:fontFamily">@font/inter</item>
+        <item name="android:textFontWeight" tools:targetApi="p">700</item>
+    </style>
+    <style name="groupStylegray_900_75">
+        <item name="android:background">@drawable/rectangle_bg_gray_900_75</item>
+    </style>
+    <style name="btnSolidRounded_3">
+        <item name="android:textSize">@dimen/_16pxh</item>
+        <item name="android:textColor">@color/gray_100</item>
+        <item name="android:fontFamily">@font/inter</item>
+        <item name="android:textFontWeight" tools:targetApi="p">600</item>
+        <item name="android:background">@drawable/rectangle_bg_red_600_radius_6</item>
+    </style>
+    <style name="btnSolidRounded_2">
+        <item name="android:textSize">@dimen/_16pxh</item>
+        <item name="android:textColor">@color/gray_100</item>
+        <item name="android:fontFamily">@font/inter</item>
+        <item name="android:textFontWeight" tools:targetApi="p">600</item>
+        <item name="android:background">@drawable/rectangle_bg_teal_400_radius_6</item>
+    </style>
+    <style name="txtInterbold24">
+        <item name="android:textSize">@dimen/_24pxh</item>
+        <item name="android:textColor">@color/teal_400</item>
+        <item name="android:fontFamily">@font/inter</item>
+        <item name="android:textFontWeight" tools:targetApi="p">700</item>
+    </style>
+    <style name="btnSolidRounded_1">
+        <item name="android:textSize">@dimen/_14pxh</item>
+        <item name="android:textColor">@color/gray_100</item>
+        <item name="android:fontFamily">@font/inter</item>
+        <item name="android:textFontWeight" tools:targetApi="p">600</item>
+        <item name="android:background">@drawable/rectangle_bg_red_600_radius_6</item>
+    </style>
+    <style name="etSolidRoundedOutline">
+        <item name="android:background">@drawable/rectangle_bg_blue_gray_900_border_black_900_radius_6</item>
+    </style>
+    <style name="txtAbelregular15">
+        <item name="android:textSize">@dimen/_15pxh</item>
+        <item name="android:textColor">@color/blue_gray_100</item>
+        <item name="android:fontFamily">@font/abel</item>
+        <item name="android:textFontWeight" tools:targetApi="p">400</item>
+    </style>
+    <style name="txtAmikosemibold35">
+        <item name="android:textSize">@dimen/_35pxh</item>
+        <item name="android:textColor">@color/blue_gray_100</item>
+        <item name="android:fontFamily">@font/amiko</item>
+        <item name="android:textFontWeight" tools:targetApi="p">600</item>
+    </style>
+    <style name="txtAmikosemibold14">
+        <item name="android:textSize">@dimen/_14pxh</item>
+        <item name="android:textColor">@color/gray_200</item>
+        <item name="android:fontFamily">@font/amiko</item>
+        <item name="android:textFontWeight" tools:targetApi="p">600</item>
+    </style>
+    <style name="txtAlexBrushregular50">
+        <item name="android:textSize">@dimen/_50pxh</item>
+        <item name="android:textColor">@color/teal_400</item>
+        <item name="android:fontFamily">@font/alex_brush</item>
+        <item name="android:textFontWeight" tools:targetApi="p">400</item>
+    </style>
+    <style name="txtAbelregular60">
+        <item name="android:textSize">@dimen/_60pxh</item>
+        <item name="android:textColor">@color/yellow_500</item>
+        <item name="android:fontFamily">@font/abel</item>
+        <item name="android:textFontWeight" tools:targetApi="p">400</item>
+    </style>
+    <style name="txtInterregular20">
+        <item name="android:textSize">@dimen/_20pxh</item>
+        <item name="android:textColor">@color/blue_gray_100</item>
+        <item name="android:fontFamily">@font/inter</item>
+        <item name="android:textFontWeight" tools:targetApi="p">400</item>
+    </style>
+</resources>

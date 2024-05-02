@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+    <string name="app_name">cidadeprogressofiap</string>
+    <string name="loading">Loading…</string>
+    <string name="no_internet_connection">No internet connection!</string>
+<string name="msg_entre_para_contribuir">Entre para contribuir:</string>
+  <string name="msg_nova_solicita_o">+ Nova solicitação de manutenção</string>
+  <string name="lbl_em_progresso">em Progresso</string>
+  <string name="msg_sugest_o_de_sinaliza_o">Sugestão de sinalização, placa, lombada e etc.</string>
+  <string name="msg_voc_j_realizou">Você já realizou um total de</string>
+  <string name="lbl_cidade">Cidade\u2028</string>
+  <string name="msg_8_contribui_es">8 contribuições!</string>
+  <string name="msg_ol_gabriel_voc">Olá, Gabriel! Você possui</string>
+  <string name="msg_pedido_de_rampas">Pedido de rampas, sinalização tátil e etc. </string>
+  <string name="lbl_25_340_pontos">25.340 pontos!</string>
+  <string name="msg_primeiro_acesso">Primeiro acesso? Cadastre-se aqui</string>
+  <string name="msg_nova_solicita_o5">+ Nova solicitação de personalizada</string>
+  <string name="msg_pedido_ponto_de">Pedido ponto de ônibus, ponto de coleta e etc. </string>
+  <string name="msg_nova_solicita_o4">+ Nova solicitação de acessibilidade</string>
+  <string name="msg_cadastre_se_aqui">Cadastre-se aqui</string>
+  <string name="msg_nova_solicita_o3">+ Nova solicitação de trânsito</string>
+  <string name="msg_nova_solicita_o2">+ Nova solicitação de sugestão</string>
+  <string name="lbl_senha">Senha</string>
+  <string name="msg_reparo_de_buracos">Reparo de buracos, calçadas e etc.</string>
+  <string name="msg_veja_as_ltimas">Veja as últimas novidades:</string>
+  <string name="lbl_cpf">CPF</string>
+  <string name="lbl_cidade2">Cidade</string>
+  <string name="msg_escolha_o_tipo_da">Escolha o tipo da sua solicitação:</string>
+  <string name="msg_caso_seu_pedido">Caso seu pedido não se adeque nas categorias</string>
+  <string name="msg_hist_rico_de_pontos"> Histórico de pontos &gt; </string>
+  <string name="msg_primeiro_acesso2">Primeiro acesso? </string>
+  <string name="lbl">+</string>
+  <string name="msg_hist_rico_de_solicita_es"> Histórico de solicitações &gt; </string>
+  <string name="lbl_entrar">ENTRAR</string>
+</resources>
